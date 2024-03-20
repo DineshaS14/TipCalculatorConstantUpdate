@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Tip Application</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+</resources>
