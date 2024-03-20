@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <https://www.loom.com/share/cd7fe45eea69444685a4bdc7e2ac77a3?sid=32f5b083-41ad-42ab-80db-e925599202b4) />
-
+<[Imgur](https://i.imgur.com/jNJtehO.gifv)/>
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
